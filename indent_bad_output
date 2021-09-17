@@ -1,0 +1,4 @@
+  File "bad_indent.py", line 2
+    if i == 3:
+     ^
+IndentationError: expected an indented block
