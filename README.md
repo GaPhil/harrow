@@ -18,6 +18,7 @@ Books:
 - _Cryptography: Theory and Practice_ by Doug Stinson
 - _Computer Organization and Design: the Hardware/Software Interface:_ by David A Patterson and John L. Hennessy
 - _Introduction to Modern Cryptography_ by Jonathan Katz and Yehuda Lindell
+- _The Art of Computer Programming_ by Donald Knuth
 - _Quantum Computation and Quantum Information_ by Isaac Chuang and Michael Nielsen
 - _Computational Complexity: A Modern Approach_ by Boaz Barak and Sanjeev Arora
 - _A Computational Introduction to Number Theory and Algebra_ by Victor Shoup
@@ -54,3 +55,4 @@ Extra resources:
 - https://www.hackerrank.com (coding practice)
 - https://cryptohack.org (applied cryptography practice)
 - https://blog.cryptographyengineering.com (cryptography blog)
+- https://ctftime.org (capture the flag)
